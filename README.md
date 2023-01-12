@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Zubair Ahmed</h1>
 
 <h2 align="center">Web Developer</h2>
-<h3 align="center">I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include JavaScript as well as PHP.</h3>
+<h3 align="center">As a Designer and Developer, my objective is to make a positive impact on clients and co-workers to make responsive websites. I have excellent knowledge of HTML, CSS, PHP,Laravel,JavaScript, Bootstrap, Jquery, WordPress theme design and customization Database, C programming, Photoshop, Illustrator and other necessary tools. I have 2+ years of experience creating and maintaining functional, attractive, and responsive websites. Highly experienced in Designing, Developing, blogging, and custom WordPress websites. I am a hardworking, self-motivated, enthusiastic individual as well as able to carry on a target-oriented job..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubair-uap&label=Profile%20views&color=0e75b6&style=flat" alt="zubair-uap" /> </p>
 
